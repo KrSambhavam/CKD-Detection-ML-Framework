@@ -40,7 +40,7 @@ This project demonstrates an optimized machine learning pipeline for early and a
 - Boosting
 - Stacking (with Logistic Regression as Meta-Model)
 
-### 🔍 Feature Importance Analysis
+### 🔍 Feature Importance Analysis:
 -Permutation Importance was used to determine the impact of each feature by randomly shuffling feature values and observing model performance drop.
 -SHAP was used to visualize and explain feature contributions for complex models. SHAP summary plots help understand global and local interpretability.
 
