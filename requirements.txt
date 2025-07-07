@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+seaborn
+imbalanced-learn
+# Optional: If you want to use Jupyter Notebook
+jupyterlab
+# Optional: If you want to use TensorFlow or PyTorch for deep learning
+tensorflow
+shap
